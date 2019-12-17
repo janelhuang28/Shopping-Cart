@@ -1,0 +1,49 @@
+{
+  "products": [
+    {
+      "availableSizes": [
+        "I",
+        "G"
+      ],
+      "currencyFormat": "$",
+      "currencyId": "NZD",
+      "description": "4 MSL",
+      "id": 1,
+      "installments": 2,
+      "isFreeTransport": false, "price": 49.99,
+      "sku": "hotspring",
+      "place": "New Zealand",
+      "title": "Hot Spring Tour Rotorua"
+    },{
+      "availableSizes": [
+        "I",
+        "G"
+      ],
+      "currencyFormat": "$",
+      "currencyId": "NZD",
+      "description": "4 MSL",
+      "id": 2,
+      "installments": 2,
+      "isFreeTransport": true,
+      "price": 89.99,
+      "sku": "universal",
+      "place": "Singapore",
+      "title": "Universal Studios"
+    }
+    ,{
+      "availableSizes": [
+        "I"
+      ],
+      "currencyFormat": "$",
+      "currencyId": "NZD",
+      "description": "4 MSL",
+      "id": 3,
+      "installments": 2,
+      "isFreeTransport": false,
+      "price": 29.99,
+      "sku": "nevis_swing",
+      "place": "New Zealand",
+      "title": "Nevis Swing"
+    }
+  ]
+}
