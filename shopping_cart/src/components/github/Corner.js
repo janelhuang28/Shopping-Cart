@@ -4,7 +4,7 @@ import './style.css';
 
 export default () => (
   <a
-    href="https://github.com/jeffersonRibeiro/react-shopping-cart"
+    href="https://github.com/janelhuang28/Shopping-Cart"
     className="github-corner"
     aria-label="View source on Github"
   >
