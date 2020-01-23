@@ -8,7 +8,7 @@ The shopping cart project is an app that allows a user to purchase tickets for d
 First opening of the app
 ![Shopping Cart](shopping_cart.png)
 
-Can checkout items by clicking on the cart logp
+Can checkout items by clicking on the cart logo
 ![Checkout](checkout.png)
 
 Add items to the cart before finalising checkout 
